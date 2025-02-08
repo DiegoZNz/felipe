@@ -1,0 +1,14 @@
+/* style.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+canvas {
+  display: block;       /* Evita espacios extra al tratarlo como inline-block */
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+}
