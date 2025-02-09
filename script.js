@@ -46,7 +46,7 @@ function init() {
   }
 
   // Crear texto centrado
-  text = new createjs.Text("the longer I'm with you\nthe more I love you", "bold 24px Arial", "#fff");
+  text = new createjs.Text("Feliz cumpleaños amor <3\nEspero y te la pasas bonito en este día y me dejes estar en tu siguiente cumpleaños!!!\n¡¡¡Te amo mucho hermosa!!!", "bold 34px Arial", "#fff");
   text.textAlign = "center";
   text.x = w / 2;
   text.y = h / 2 - text.getMeasuredLineHeight();
